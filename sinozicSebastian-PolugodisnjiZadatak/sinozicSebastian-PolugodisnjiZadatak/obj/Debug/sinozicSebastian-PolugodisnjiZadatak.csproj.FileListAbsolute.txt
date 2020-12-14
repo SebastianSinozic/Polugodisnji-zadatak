@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\sinozicSebastian-PolugodisnjiZadatak\sinozicSebastian-PolugodisnjiZadatak\bin\Debug\sinozicSebastian-PolugodisnjiZadatak.exe.config
+C:\Users\sebas\source\repos\sinozicSebastian-PolugodisnjiZadatak\sinozicSebastian-PolugodisnjiZadatak\bin\Debug\sinozicSebastian-PolugodisnjiZadatak.exe
+C:\Users\sebas\source\repos\sinozicSebastian-PolugodisnjiZadatak\sinozicSebastian-PolugodisnjiZadatak\bin\Debug\sinozicSebastian-PolugodisnjiZadatak.pdb
+C:\Users\sebas\source\repos\sinozicSebastian-PolugodisnjiZadatak\sinozicSebastian-PolugodisnjiZadatak\obj\Debug\sinozicSebastian-PolugodisnjiZadatak.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\sinozicSebastian-PolugodisnjiZadatak\sinozicSebastian-PolugodisnjiZadatak\obj\Debug\sinozicSebastian_PolugodisnjiZadatak.Form1.resources
+C:\Users\sebas\source\repos\sinozicSebastian-PolugodisnjiZadatak\sinozicSebastian-PolugodisnjiZadatak\obj\Debug\sinozicSebastian_PolugodisnjiZadatak.Properties.Resources.resources
+C:\Users\sebas\source\repos\sinozicSebastian-PolugodisnjiZadatak\sinozicSebastian-PolugodisnjiZadatak\obj\Debug\sinozicSebastian-PolugodisnjiZadatak.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\sinozicSebastian-PolugodisnjiZadatak\sinozicSebastian-PolugodisnjiZadatak\obj\Debug\sinozicSebastian-PolugodisnjiZadatak.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\sinozicSebastian-PolugodisnjiZadatak\sinozicSebastian-PolugodisnjiZadatak\obj\Debug\sinozicSebastian-PolugodisnjiZadatak.exe
+C:\Users\sebas\source\repos\sinozicSebastian-PolugodisnjiZadatak\sinozicSebastian-PolugodisnjiZadatak\obj\Debug\sinozicSebastian-PolugodisnjiZadatak.pdb
